@@ -1,6 +1,6 @@
 {
   "name": "vibe-app",
-  "homepage": "https://harshad297.github.io/dubai-mall-interactive-deckk",
+  "homepage": "https://harshadmore.github.io/mall_project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,8 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d dist",
-    "preview": "vite preview"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "lucide-react": "^0.400.0",
